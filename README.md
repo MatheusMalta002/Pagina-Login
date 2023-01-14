@@ -7,8 +7,9 @@
 
 <h3>Print da página :arrow_down:</h3>
 
-![login-pg](https://user-images.githubusercontent.com/104574086/212330206-b8f85d3a-3841-41a4-a781-0107ba34a408.png)
+![print-Login](https://user-images.githubusercontent.com/104574086/212500672-e70f8dc4-3b3c-432d-9fe1-274d8f293557.png)
+![print-siteResponsivo](https://user-images.githubusercontent.com/104574086/212500678-af6ff558-501d-43c1-bd8c-af957f0c1ec3.png)
 
 <h4>Descrição breve sobre a página</h4>
-<p>É uma página simples com um menu, uma caixa de login, uma animação dos planetas e um rodapé de contato.</p>
-<p>Ao clicar no menu, ele te direciona para o local clicado da página.</p>
+<p>É uma página simples com uma caixa de login e uma animação dos planetas.</p>
+<p>A página está adaptada para desktop e mobile</p>
